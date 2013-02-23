@@ -1,25 +1,19 @@
 === Plugin Name ===
 Contributors: pgogy
-Tags: elearning, learning, education, content creation, xerte
+Tags: time, timed, schedule, release
 Requires at least: 3.1
 Tested up to: 3.5
-Stable tag: 0.37
+Stable tag: 0.1
 
-Xerte Online for WordPress is a server-based suite of tools for content authors. Elearning materials can be authored quickly and easily using browser-based tools, with no programming required.
-
-There is a possible security problem in 0.32, so please upgrade to 0.37
-
-For support please see http://www.pgogy.com and http://www.pgogy.com/code/groups/wordpress/xerte-online/
+Timed posts allows you to release parts of a post at different times.
 
 == Description ==
 
-Xerte Online for WordPress is a server-based suite of tools for content authors. Elearning materials can be authored quickly and easily using browser-based tools, with no programming required. Xerte Online Toolkits is aimed at content authors, who will assemble content using simple wizards. Content authors can easily collaborate on projects. Xerte Online Toolktis can be extended by developers using Xerte.
+Timed Posts allows a blog post to include multiple sections which will only appear at certain times.
 
-This plugin for WordPress is a subset of the main Xerte Online Toolkits functionality, but offers a simple to install and host solution within WordPress. More information on Xerte Online Toolkits
+For support please see http://www.pgogy.com and http://www.pgogy.com/code/groups/wordpress/timed-posts/
 
-Xerte was developed by the University of Nottingham, and for more information please visit <a href="http://www.nottingham.ac.uk/xerte">Xerte home page</a>. This plugin was not developed by the University, but by part of the Xerte Community
-
-This plugin is very much in development. Please report problems to http://www.pgogy.com/code/xerte-online/
+[vimeo https://vimeo.com/60042537]
 
 == Installation ==
 
@@ -32,27 +26,9 @@ No Questions have been asked yet. Please see http://www.pgogy.com/code/xerte-onl
 
 == Screenshots ==
 
-1. This is where to click on the wp-admin pages to make a Xerte Online Learning Object Post
-2. The Xerte Online Editor
-3. Example Xerte Online Content
-4. Example Xerte Online Content
-5. Example Xerte Online Content
-6. The Xerte Project homepage - http://www.nottingham.ac.uk/xerte
+1. Timed Post Editor
 
 == Changelog ==
 
-= 0.36 =
-Fixed security issues
-
-= 0.31 =
-Added chmod to activation
-
-= 0.3 =
-Added more guidance and tested in 3.4
-
-= 0.2 =
-Some installation problems resolved
-http://www.pgogy.com/code/xerte-online/
-
 = 0.1 =
-First version released. Still a development version. I expect it to work, but problems may occur. Please report to http://www.pgogy.com/code/xerte-online/
+First version released. Still a development version. I expect it to work, but problems may occur. 
