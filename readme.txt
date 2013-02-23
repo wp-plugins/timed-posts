@@ -8,11 +8,11 @@ Stable tag: 0.1
 Allows certain parts of the post to be released at certain times depending on when it is viewed..
 
 == Description ==
-
 Timed Posts allows a post to be constructed out of other posts and then these posts can be displayed at certain times depending on how the post is constructed.
 
-== Installation ==
+`[vimeo https://vimeo.com/60042537]`
 
+== Installation ==
 This section describes how to install the plugin and get it working.
 
 e.g.
@@ -26,13 +26,10 @@ e.g.
 No Questions have been asked yet.
 
 == Screenshots ==
-
 1. Editor Window
 
 == Upgrade Notice ==
-
 First install so no upgrade required
 
 == Changelog ==
-
 0.1 First version of plugin
