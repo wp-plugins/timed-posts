@@ -21,16 +21,10 @@ e.g.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Visit the settings page for the plugin - No other configuration is required.
 
-== Changelog ==
+== Frequently Asked Questions ==
 
-* This is the first version we have distributed - no changes have been made post this initial release as of yet.
+No Questions have been asked yet.
 
 == Screenshots ==
 
 1. Editor Window
-
-== Frequently Asked Questions ==
-
-We are a new plugin - so no questions so far.
-
-== Upgrade Notice ==
