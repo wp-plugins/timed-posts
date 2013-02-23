@@ -28,3 +28,11 @@ No Questions have been asked yet.
 == Screenshots ==
 
 1. Editor Window
+
+== Upgrade Notice ==
+
+First install so no upgrade required
+
+== Changelog ==
+
+0.1 First version of plugin
